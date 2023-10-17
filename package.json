@@ -1,13 +1,13 @@
 {
-  "name": "Haruka-Md",
+  "name": "Karlos-Md",
   "version": "9.0.1",
   "description": "whatsapp tob with multi device.",
-  "main": "haruka.js",
+  "main": "Karlos.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "start": "node haruka.js"
+    "start": "node Karlos.js"
   },
   "keywords": [
     "termux",
